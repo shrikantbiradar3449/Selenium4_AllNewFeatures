@@ -1,0 +1,59 @@
+2025-02-22 20:48:52 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 20:48:52 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 20:48:56 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 20:48:57 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 20:49:00 [main] ERROR utils.Log - Test failed: googleHomePageTest
+2025-02-22 20:49:01 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 20:50:44 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 20:50:44 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 20:50:50 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 20:50:51 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 20:50:51 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 20:50:54 [main] ERROR utils.Log - Test failed: googleHomePageTest
+2025-02-22 20:50:55 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\googleHomePageTest.png
+2025-02-22 20:50:55 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 20:53:03 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 20:53:04 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 20:53:08 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 20:53:08 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 20:53:08 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 20:53:12 [main] ERROR utils.Log - Test failed: googleHomePageTest
+2025-02-22 20:53:13 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\googleHomePageTest.png
+2025-02-22 20:53:13 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 20:53:53 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 20:53:53 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 20:53:59 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 20:53:59 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 20:53:59 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 20:54:03 [main] ERROR utils.Log - Test failed: googleHomePageTest
+2025-02-22 20:54:03 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\googleHomePageTest.png
+2025-02-22 20:54:03 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 20:57:36 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 20:57:36 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 20:57:38 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 20:57:38 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 20:57:38 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 20:57:39 [main] ERROR utils.Log - Test failed: googleHomePageTest
+2025-02-22 20:57:39 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\googleHomePageTest.png
+2025-02-22 20:57:39 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 21:08:01 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 21:08:01 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 21:08:07 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 21:08:07 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 21:08:07 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 21:08:11 [main] INFO  utils.Log - Test passed: googleHomePageTest
+2025-02-22 21:08:11 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 21:08:25 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 21:08:25 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 21:08:29 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 21:08:29 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 21:08:29 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 21:08:31 [main] INFO  utils.Log - Test passed: googleHomePageTest
+2025-02-22 21:08:32 [main] INFO  utils.Log - Flushing Extent Reports...
+2025-02-22 21:08:48 [main] INFO  utils.Log - Initializing Extent Reports...
+2025-02-22 21:08:48 [main] INFO  utils.Log - Starting test: failingTest
+2025-02-22 21:08:51 [main] ERROR utils.Log - Test failed: failingTest
+2025-02-22 21:08:51 [main] ERROR utils.Log - Failed to capture screenshot: test-output\screenshots\failingTest.png
+2025-02-22 21:08:51 [main] INFO  utils.Log - Starting test: googleHomePageTest
+2025-02-22 21:08:55 [main] INFO  utils.Log - Test passed: googleHomePageTest
+2025-02-22 21:08:55 [main] INFO  utils.Log - Flushing Extent Reports...

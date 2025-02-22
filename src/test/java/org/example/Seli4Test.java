@@ -29,14 +29,14 @@ public class Seli4Test  extends BaseTest {
 
     @Test
     public void googleHomePageTest() {
-        driver.get("https://www.google.com");
+        driver.get(appUrl);
         String title = driver.getTitle();
         assert title.contains("Google");
     }
 
     @Test
     public void failingTest() {
-        driver.get("https://www.google.com");
+        driver.get(appUrl);
         String title = driver.getTitle();
         assert title.contains("Bing"); // Intentional failure for demo
     }
